@@ -1,0 +1,172 @@
+
+Authentication
+• KB 2: Ineffective Authentication 
+• KB 1: Weak Password Policy 
+• KB 104: Unauthenticated SQL Queries Permitted 
+• KB 129: Bypassing SAML SSO with XML Signature Attack 
+• KB 3: Account Does Not Lockout After 5 Failed Attempts 
+• KB 106: MAC Address Validation Bypass Possible 
+• KB 6: Re-use of Temporary Password Permitted 
+• KB 7: [DUPLICATE] Ineffective Self-help Password Change Facility 
+• KB 5: Weak Google Authenticator's Secret Permitted 
+• KB 4: Ineffective Change Password Function 
+• KB 57: [DEPRECATED] No Authentication After Background Resume 
+
+
+Authorization
+• KB 8: Insufficient Authorization Checks 
+• KB 61: [DEPRECATED] Low Minimum Version 
+• KB 122: Improper Access Control 
+• KB 60: Application Overprivileged 
+• KB 59: Missing Anti-Debug Protections 
+• KB 58: [DEPRECATED] Application Requests Root Privileges 
+
+
+Configuration
+• KB 53: [DEPRECATED] SQL statement in request parameters 
+• KB 21: Unencrypted Transport Protocols 
+• KB 20: Default Credentials In Use 
+• KB 19: [DEPRECATED] SQL statement in request parameter 
+• KB 103: Web Shell Remote Command Execution Possible 
+• KB 18: Over-Permissive CORS Policy 
+• KB 108: Clickjacking Possible 
+• KB 120: [DEPRECATED] Insecure HTTP Methods Allowed 
+• KB 114: WebView JavaScript Enabled 
+• KB 112: TapJacking 
+• KB 111: Protection Level Downgrade Permitted 
+• KB 13: CGI Information Disclosure 
+• KB 10: Directory Listing 
+• KB 9: Lack or Misconfiguration of Browser Security Headers 
+• KB 17: Overly Permissive Cross-domain policy 
+• KB 102: HTTP Strict Transport Security (HSTS) Not Enforced 
+• KB 109: Application Backups Permitted 
+• KB 124: Executable not Compiled with Security Best Practices 
+• KB 148: Sensitive Data Stored Without Appropriate Data Protection Class 
+• KB 136: DLL Hijacking Possible 
+• KB 137: No Code Signing on Binary Files 
+• KB 11: [Depricated] GET and POST Interchangeable 
+• KB 115: [DEPRECATED] WebView File Access Enabled 
+• KB 149: [DEPRECATED] [DUPLICATE] Lack of Obfuscation 
+
+
+Cryptography
+• KB 101: Encryption Not Enforced 
+• KB 62: Weak Certificate Hash Algorithms 
+• KB 65: Lack of Certificate Pinning 
+• KB 64: Secure Random Weakness 
+• KB 63: Insecure Cryptography 
+• KB 96: TLS/SSL Client Initiated Renegotiation 
+• KB 95: Weak/Low/Medium SSL/TLS Configuration 
+• KB 133: Hard-Coded Encryption Keys 
+• KB 147: Overly Permissive HostnameVerifier 
+• KB 146: Overly Permissive TrustManager 
+• KB 98: Mixed Content 
+• KB 68: Inadequate Code Obfuscation 
+• KB 67: Insecure Pseudo-Random Number Generator 
+• KB 125: Password Hashes Not Salted 
+• KB 144: Null Initialization Vector Used in Symmetric Cryptographic Operation 
+• KB 99: Weak Hashing Algorithm 
+• KB 100: Invalid/Expired SSL Certificate 
+• KB 70: [DEPRECATED] Apple GOTO FAIL 
+• KB 69: [DEPRECATED] Application Binary Unencrypted 
+• KB 66: [DEPRECATED] Insufficient APK Signing Key Length 
+• KB 66: Insufficient APK Signing Key Length 
+
+
+Information Gathering
+• KB 34: Database connection string disclosed 
+• KB 31: ASP.NET tracing enabled 
+• KB 35: Source Code Disclosure 
+• KB 27: Sensitive Information Disclosed in URL of HTTP Request 
+• KB 83: Symbols not Stripped 
+• KB 81: Application Screenshot Information Disclosure 
+• KB 75: Sensitive Information Found in Memory 
+• KB 22: Server Header Information Leakage 
+• KB 36: Big IP Cookie Disclosure 
+• KB 33: Autocomplete Enabled On Sensitive Fields 
+• KB 32: Unencrypted ViewState 
+• KB 30: Cacheable HTTPS response 
+• KB 29: NPI Displayed Without Masking 
+• KB 28: HTML & Script Comments Information Disclosure 
+• KB 26: Private IP Address Disclosure 
+• KB 25: Account ID Enumeration 
+• KB 23: Robots.txt Information Disclosure 
+• KB 24: Verbose Error Messages 
+• KB 121: Error Page Information Disclosure 
+• KB 76: Developer Account Information Disclosure 
+• KB 78: Debug Logs Enabled 
+• KB 77: [DEPRECATED] Developer Email Account Disclosure 
+• KB 80: Username Cached Locally 
+• KB 79: System Paths Disclosed in the Application Binary 
+• KB 82: Insecure Memory Allocation (Malloc) 
+
+
+Input Validation
+• KB 52: Server-Side Include (SSI) injection 
+• KB 50: XPath injection 
+• KB 49: XML injection 
+• KB 47: Cross-Site Scripting Stored(XSS) 
+• KB 38: SQL Injection 
+• KB 44: XML External Entity Injection (XXE) 
+• KB 39: Command Injection 
+• KB 51: HTTP response header injection 
+• KB 48: Cross-Site Scripting DOM based(XSS) 
+• KB 46: Cross-Site Scripting Reflected(XSS) 
+• KB 45: Cross-Site Request Forgery (CSRF) 
+• KB 94: Cross Site Websocket Hijacking (CSWH) 
+• KB 37: Open URL Redirect 
+• KB 43: Directory Traversal 
+• KB 42: Spreadsheet Formula Injection 
+• KB 41: Unrestricted File Upload 
+• KB 40: Insufficient Server-side Validation 
+• KB 119: Reflected File Download 
+• KB 138: Server Side Request Forgery 
+• KB 135: HTML Injection 
+• KB 97: [DEPRECATED] Weak SSL/TLS Protocols 
+• KB 151: Client-Side Denial of Service by Null Fuzzing Activity Components 
+
+
+Miscellaneous
+• KB 54: Backdoor 
+• KB 150: Read-Only Shell Breakout 
+• KB 145: Exposed Activities Lead to Authentication Bypass 
+• KB 56: Extraneous/Default/Temporary/Suspicious Files Accessible 
+• KB 55: Cross Domain Script Include 
+• KB 71: Lack of Jailbreak Detection 
+• KB 116: Local Storage of Sensitive Information 
+• KB 143: [DUPLICATE?] Client-Side Security Control Can Be Bypassed 
+• KB 139: Lack of Anti-Hooking Protection 
+• KB 152: No Anti-Virus Scanning on File Upload 
+• KB 72: Lack of Root Detection 
+• KB 118: Lack of Anti-Emulation 
+• KB 113: Third Party Content Loaded Within WebView 
+• KB 130: Use of Third-Party Keyboards Permitted (iOS) 
+• KB 74: Lack of Debugging Detection/Prevention 
+• KB 140: Weak Root/Jailbreak Detection 
+• KB 141: System Keyboard Visible With Flag Secure 
+• KB 142: Use of Third-Party Keyboard Permitted (Android) 
+• KB 73: [DEPRECATED] InAuth Root Detection Evasion 
+
+
+Patch Management
+• KB 105: Heartbleed Vulnerability 
+• KB 131: Remote Code Execution through Exposed JMX Interface 
+• KB 85: Deserialization of untrusted data 
+• KB 84: Outdated And Vulnerable Software 
+• KB 110: Insecure Minimum OS Supported 
+• KB 128: Potentially Unnecessary Services 
+
+
+Session Management
+• KB 87: Session token in URL 
+• KB 93: Excessive Session Timeout 
+• KB 92: Missing Logout Functionality 
+• KB 91: Session Token Weak Entropy 
+• KB 107: Session Fixation 
+• KB 134: Sensitive Information Stored in Cookie 
+• KB 86: Concurrent Logins Permitted 
+• KB 90: Broadly Scoped Cookie Domain 
+• KB 123: Lack of Session Expiration Redirection 
+• KB 127: Ineffective Logout Functionality 
+• KB 88: Cookie Set Without HTTPOnly Attribute 
+• KB 89: Cookie Set Without Secure Attribute 
